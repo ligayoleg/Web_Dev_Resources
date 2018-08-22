@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Blending Mode</title>
+	<style>
+		.blend-container{
+			background: url(https://1dib1q3k1s3e11a5av3bhlnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/NYC-aerial-view.jpg);
+			max-width: 90%;
+			min-height: 100%;
+			background-size: cover;
+			background-repeat: no-repeat;
+			height: 100%;
+			padding: 20%;
+		}
+
+		.blend-black {
+			display: inline-block;;
+			background: black;
+			color: white;
+			mix-blend-mode: multiply;
+			text-align:center;
+			padding: 20px;
+			font-family: sans-serif;
+			font-size: 1.75em;
+		}
+
+		.blend-white{
+			display: inline-block;;
+			background: white;
+			color: black;
+			mix-blend-mode: screen;
+			text-align:center;
+			padding: 20px;
+			font-family: sans-serif;
+			font-size: 1.75em;
+		}
+	</style>
+</head>
+<body>
+	<div class="blend-container">
+		<div class="blend-black">
+			<h1>Black</h1>
+			<h2>Mode</h2>
+			<p>With <strong>multiply</strong> blend mode, black is cut out and white is opaque.</p>
+		</div> <!-- blend-text -->
+		
+		<div class="blend-white">
+			<h1>White</h1>
+			<h2>Mode</h2>
+			<p>With <strong>screen</strong> blend mode, white is cut out and black is opaque.</p>
+		</div>
+	</div> <!-- blend-container -->
+</body>
+</html>
