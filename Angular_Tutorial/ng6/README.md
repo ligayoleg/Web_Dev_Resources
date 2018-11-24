@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Notes
 
-#####INSTALLATION
+##### INSTALLATION
 
 - Install Angular with -> npm install -g @angular/cli
 - To call the CLI -> ng
@@ -37,3 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   - ng6 -> is a name of a project
   - --style=scss -> using sass for styling
   - --routing -> we want a project that has different URLs and adding this flag will help create routing file for us.
+
+#### USAGE
+
+- ng serve -o -> starts a server with a port 4200
