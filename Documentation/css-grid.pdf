@@ -1,0 +1,558 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+17 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 19 0 R
+>>
+/XObject << 
+/I1 10 0 R
+/I2 15 0 R
+/I3 16 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text /ImageC ]
+endobj
+5 0 obj
+<<
+/Producer (dompdf + CPDF)
+/CreationDate (D:20180423173416+00'00')
+/ModDate (D:20180423173416+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 595.280 841.890]
+/Parent 3 0 R
+/Annots [ 11 0 R 13 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 10750 >>
+stream
+
+1.000 1.000 1.000 rg
+34.016 34.016 545.050 773.859 re f
+0.878 0.090 0.514 rg
+BT 48.189 775.467 Td 1.100 Tw 0.200 Tc /F1 16.0 Tf  [(we write about the things we build and the things )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 752.675 Td 1.100 Tw 0.200 Tc /F1 16.0 Tf  [(we consume)] TJ 0.000 Tw 0.000 Tc ET
+q
+48.189 700.592 412.454 34.245 re W n
+0.000 0.000 0.000 rg
+BT 71.776 713.441 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(written by Phil Giles on 24 April 2017 in design, development process, front-end)] TJ 0.000 Tw 0.000 Tc ET
+q
+48.189 721.087 m 
+48.189 704.587 l 
+48.189 711.842 48.213 711.596 48.261 711.355 c
+48.309 711.115 48.381 710.879 48.474 710.652 c
+48.568 710.425 48.685 710.208 48.821 710.004 c
+48.957 709.800 49.114 709.609 49.287 709.435 c
+49.461 709.262 49.652 709.105 49.856 708.969 c
+50.060 708.833 50.277 708.716 50.504 708.622 c
+50.731 708.529 50.967 708.457 51.207 708.409 c
+51.448 708.361 51.694 708.337 51.939 708.337 c
+60.939 708.337 l 
+61.184 708.337 61.430 708.361 61.671 708.409 c
+61.911 708.457 62.147 708.529 62.374 708.622 c
+62.601 708.716 62.818 708.833 63.022 708.969 c
+63.226 709.105 63.417 709.262 63.591 709.435 c
+63.764 709.609 63.921 709.800 64.057 710.004 c
+64.193 710.208 64.310 710.425 64.404 710.652 c
+64.497 710.879 64.569 711.115 64.617 711.355 c
+64.665 711.596 64.689 711.842 64.689 712.087 c
+64.689 721.087 l 
+64.689 721.332 64.665 721.578 64.617 721.819 c
+64.569 722.059 64.497 722.295 64.404 722.522 c
+64.310 722.749 64.193 722.966 64.057 723.170 c
+63.921 723.374 63.764 723.565 63.591 723.739 c
+63.417 723.912 63.226 724.069 63.022 724.205 c
+62.818 724.341 62.601 724.458 62.374 724.552 c
+62.147 724.645 61.911 724.717 61.671 724.765 c
+61.430 724.813 61.184 724.837 60.939 724.837 c
+51.939 724.837 l 
+51.694 724.837 51.448 724.813 51.207 724.765 c
+50.967 724.717 50.731 724.645 50.504 724.552 c
+50.277 724.458 50.060 724.341 49.856 724.205 c
+49.652 724.069 49.461 723.912 49.287 723.739 c
+49.114 723.565 48.957 723.374 48.821 723.170 c
+48.685 722.966 48.568 722.749 48.474 722.522 c
+48.381 722.295 48.309 722.059 48.261 721.819 c
+48.213 721.578 48.189 721.332 48.189 721.087 c
+51.939 708.337 l  W n
+Q
+q
+48.189 721.087 m 
+48.189 704.587 l 
+48.189 711.842 48.213 711.596 48.261 711.355 c
+48.309 711.115 48.381 710.879 48.474 710.652 c
+48.568 710.425 48.685 710.208 48.821 710.004 c
+48.957 709.800 49.114 709.609 49.287 709.435 c
+49.461 709.262 49.652 709.105 49.856 708.969 c
+50.060 708.833 50.277 708.716 50.504 708.622 c
+50.731 708.529 50.967 708.457 51.207 708.409 c
+51.448 708.361 51.694 708.337 51.939 708.337 c
+60.939 708.337 l 
+61.184 708.337 61.430 708.361 61.671 708.409 c
+61.911 708.457 62.147 708.529 62.374 708.622 c
+62.601 708.716 62.818 708.833 63.022 708.969 c
+63.226 709.105 63.417 709.262 63.591 709.435 c
+63.764 709.609 63.921 709.800 64.057 710.004 c
+64.193 710.208 64.310 710.425 64.404 710.652 c
+64.497 710.879 64.569 711.115 64.617 711.355 c
+64.665 711.596 64.689 711.842 64.689 712.087 c
+64.689 721.087 l 
+64.689 721.332 64.665 721.578 64.617 721.819 c
+64.569 722.059 64.497 722.295 64.404 722.522 c
+64.310 722.749 64.193 722.966 64.057 723.170 c
+63.921 723.374 63.764 723.565 63.591 723.739 c
+63.417 723.912 63.226 724.069 63.022 724.205 c
+62.818 724.341 62.601 724.458 62.374 724.552 c
+62.147 724.645 61.911 724.717 61.671 724.765 c
+61.430 724.813 61.184 724.837 60.939 724.837 c
+51.939 724.837 l 
+51.694 724.837 51.448 724.813 51.207 724.765 c
+50.967 724.717 50.731 724.645 50.504 724.552 c
+50.277 724.458 50.060 724.341 49.856 724.205 c
+49.652 724.069 49.461 723.912 49.287 723.739 c
+49.114 723.565 48.957 723.374 48.821 723.170 c
+48.685 722.966 48.568 722.749 48.474 722.522 c
+48.381 722.295 48.309 722.059 48.261 721.819 c
+48.213 721.578 48.189 721.332 48.189 721.087 c
+51.939 708.337 l  W n
+q
+16.500 0 0 16.500 48.189 708.337 cm /I1 Do
+Q 
+Q
+Q
+0.192 0.000 0.439 rg
+BT 48.189 668.019 Td 1.100 Tw 0.200 Tc /F1 18.0 Tf  [(css grid)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 639.435 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Last month a new set of CSS properties were added to the spec. Together these )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 625.190 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(make CSS Grid, the new way to layout our pages in CSS.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 600.945 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(CSS Grid finally gives us the control we have always wanted for layouts in CSS. )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 586.700 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Gone are the days of horrible layout workarounds and hacks to get what you want. )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 572.455 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(This move also makes layout and pages much more maintainable and a lot easier to )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 558.210 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(use.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 533.965 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Now I know what you're thinking. What about flexbox? This time last year )] TJ 0.000 Tw 0.000 Tc ET
+0.878 0.090 0.514 rg
+BT 405.619 533.965 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(I wrote)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 519.720 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(about how flexbox can fix your layout woes. Well don't worry, you don't need to )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 505.475 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(forget all of that knowledge as flexbox and grid work together really well. But for )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 491.230 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(now, I'm just going to go through the basics of grid and how you can get started )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 476.985 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(straight away!)] TJ 0.000 Tw 0.000 Tc ET
+0.192 0.000 0.439 rg
+BT 48.189 444.461 Td 1.100 Tw 0.200 Tc /F1 12.0 Tf  [(getting started)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 419.646 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(So we start with a basic layout of three divs. You can see I have added )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+399.669 418.721 43.780 10.175 re f
+0.000 0.000 0.000 rg
+BT 401.669 419.646 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(display: )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+48.189 404.476 22.450 10.175 re f
+0.000 0.000 0.000 rg
+BT 48.189 405.401 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid;)] TJ 0.000 Tw 0.000 Tc ET
+BT 70.639 405.401 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [( to the wrapper - but nothing happens! Of course, there's some more info the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 391.156 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid needs to know before it can do its magic. So let's tell the grid about how we )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 376.911 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(want the columns to work.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 352.666 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(I have added two new properties to the wrapper class, so let's see what they do! )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 338.421 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Firstly I have added )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+147.629 337.496 107.110 10.175 re f
+0.000 0.000 0.000 rg
+BT 149.629 338.421 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid-template-columns)] TJ 0.000 Tw 0.000 Tc ET
+BT 254.739 338.421 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(. This, as expected, tells the wrappers )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 324.176 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(children how to behave as columns. You may or may not be familiar with the unit )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 309.931 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(used here. )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+103.019 309.006 16.270 10.175 re f
+0.000 0.000 0.000 rg
+BT 105.019 309.931 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(1fr)] TJ 0.000 Tw 0.000 Tc ET
+BT 119.289 309.931 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [( is one )] TJ 0.000 Tw 0.000 Tc ET
+0.878 0.090 0.514 rg
+BT 157.029 309.931 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(fractional unit)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 220.799 309.931 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(, which means the column will take one share of )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 295.686 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(the available space for its width. As you can see I have added three of these, which )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 281.441 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(means I will get three columns of equal width.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 257.196 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(The second property I have added is )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+229.579 256.271 79.240 10.175 re f
+0.000 0.000 0.000 rg
+BT 231.579 257.196 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid-column-gap)] TJ 0.000 Tw 0.000 Tc ET
+BT 308.819 257.196 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(, which is kind of self-)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 242.951 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(explanatory. This adds space in between each column, which in this case is )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+417.459 242.026 20.720 10.175 re f
+0.000 0.000 0.000 rg
+BT 419.459 242.951 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(1px)] TJ 0.000 Tw 0.000 Tc ET
+BT 438.179 242.951 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(. )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 228.706 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(This space will show through the background of the wrapper which I have made )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 214.461 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(white to make it easier to see.)] TJ 0.000 Tw 0.000 Tc ET
+0.192 0.000 0.439 rg
+BT 48.189 181.937 Td 1.100 Tw 0.200 Tc /F1 12.0 Tf  [(step it up)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 157.122 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Ok so we have the very basics down so let's make a few more changes. What will )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 142.877 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(happen if I add in som more column divs?)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 118.632 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(The new columns have created a new row as expected, but where is the gap? Well, )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 104.387 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(the property we added in the last step only covered the column gap and these new )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 90.142 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(divs have created a new row. So we need to add, yes you guessed it, )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+390.899 89.217 62.520 10.175 re f
+0.000 0.000 0.000 rg
+BT 392.899 90.142 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid-row-gap)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 65.897 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(And now we have a nice looking grid! Well this has all been fairly simple so far, but )] TJ 0.000 Tw 0.000 Tc ET
+0.200 0.000 0.400 rg
+474.816 62.362 104.250 745.512 re f
+q
+91.500 0 0 31.807 481.902 758.980 cm /I3 Do
+Q
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 96
+/Height 96
+/ColorSpace /DeviceRGB
+/Filter /DCTDecode
+/BitsPerComponent 8
+/Length 1528>>
+stream
+ÿØÿà JFIF      ÿş ;CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 90
+ÿÛ C 
+
+
+ÿÛ C		ÿÀ  ` `" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RğbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? úßò£j;Q@•PùQùQE •{QøÑøĞÇµ•/ãIøĞÇµ{QøÒş4 ¨¢Š (¥®£áç†ÄzÖg]ÖvÀI(=ÿ 
+ş?È ŸÂo<CÜÜ9²²nUÈËÈ?Ùçõ¯A²øg Y h×-ıù¤bOà¥u*¡*€p è(ÿ =h—¼øiáû´!m»~øGé^âÏ†÷î­\ŞÙ/,@ÃÆ=Çqî+Ú?ÏZ8 õ€>f¢ºÏˆŞOkKugt¢ˆßÄ¿¨?rT ´R”PE´ •ì?mV/O0<·“ì  ?Î¼z½kàö ²é–d2¼Ì²Àæ§ó A¢“üô¢€ŠJ?ÏJ â¾-Ú¬ŞIHù¡H>ÄGê?*ñªõï‹ú‚Á¡[Z<ÉæİöTş¤W‘P´RÑ@	E¨ ¶<'â)<3¬Ev€¼Gä–0~ò¿qô¬ŠÑĞ¼;}â;¯"Êä}ù„AêM }§j6ú­œwV²¬ĞH2¬è}Xÿ =k—ğo‚…UœŞÍ<®>tS¶/ûç¹÷®¦€üõ¨/ïíôËI.neX`ŒeX®_Æ^
+ÿ „©…ìĞIÜè³êW×Ş€<£ÅŞ$“ÄúÄ—DFÈc?Â£×Üõ¬JÒ×|;}áË¯"ö„ıÉ”qêfĞEP(¥ÆM kø[Ãw'ÕÖ’1óK.8Eÿ A^í¤höšŒv–qâOÍ©=ÍexÃ‹áÍ
+(İ@»˜	'=òz/à8üë¡ÿ =h ÿ =(¥ÿ =i?ÏZ (ÿ =(ÿ =iÏZ ¥«èöºå‹Ú^D$‰¿5=ˆ=xWŠ<7?†5Gµ›çŒüÑKÇÔWĞ?ç­sŞ9ğâøC–4PnáH|«ø?* ğz(#Š NÕĞøJ¿Š¬¢uİmç8ö^ã\ñ¯Cø7lTÔn1Ìq*şñÏşË@±E% ´R”PÑIGùé@E%àŞ<Ò†‘â›Ø‘vÅ#yÈ=›Ÿç‘øW?^‡ñ’Ø&§§Üc™!d'ıÓŸıš¼ò€?ÿÙ
+endstream
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 405.6190 533.0400 438.3290 543.2150 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://metabroadcast.com/blog/flexbox-those-css-muscles)
+>>
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 157.0290 309.0060 220.7990 319.1810 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.w3.org/TR/css3-grid-layout/#fr-unit)
+>>
+endobj
+15 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 210
+/Height 73
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 210 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 3041>>
+stream
+híšDäÏÇÇz[k­¬d­d%I’$9É99'ÉùÈ:IVrr’$9I’“$9'I’$'Ir’““¬sÖJ²’“ä$k%'ÉZk­õö™yÍÌûı÷{úyu}¿=ÿzÏ{^3óz¼gŞó¡?“³oïx¶è3ùßÒ€Šµ–óØnÜ£”]‚tñò±ı¸GÙ#)YûØ~Ü£(RâÕcûqzBúEŠÿ÷’·/ßıØ¾Ü“(’z~zzzØ÷ØÎè*ìšœšäš};¨‡&§_(Ôª¼ßğÛ}¬w"	”x‡”Úñi£ÕäÔÈeC–b»×ùÛw¿Õ«”Ê"f=qKÌR®ˆ¤.¡´Å*3#m‘e-ng0µ†óe&õ™+‰°&°U«•HUç³¤ÌgW–~ZRjíš|­…Üm~û‰¼õÚ§¨K¨;Õ›õëˆÔƒR¤lÊ"2UF¤TĞSôKfvøÌ\¦ÒNZÆ ú–UUë3•†^óŒÑİP¡ÕÍ”šîsñg\¿›­5¼-Òi=ÊÛ‘Æø‘Hé…ááö\äœYıcvqZÆ[¬ÚÆ^æ™³?¡šìûÕ#?‹v„ñ—œÎ£ŞNpš‘~‚O‘ ÖæÆ8ñ;Ú^Héığ6hk‡¶Ã&†ç}€w$¼³­k'	H¯Å!ñ­%pLBÌ&w»¹"Ú++8>Ö2ˆñ·2ZÚ*x5ë‘!¼ÎÊÅòºÚ¡´¥\7;‘u(oH|… ‚ò`×ÈôÙƒ’[T¨« 2ÿ-"UAÚøPıìıä³]8 T$?äTÙşşM6¼%˜Ìl.<ç/‘Ş§ódÏ'¨îÍR	Ò1oî~pu†·Ï €+à‰\+— ™´mEòB¬¿óÌ‘>òè-°ü‹û$àŒ¥ÕóĞf½¤QlV‚MöIqÖ)ìg$·ız+R¬Š…Zh›àH?¤‹áÀ[PkçşÍ"f$[÷9yµÃÊ+ƒnçuÖÑC£ÊùLÿÃ(8kóéÛ1HMĞ|µm»İØIˆH«Ôdœ)A{ş×$[ıìº¦¯ë&$÷$$\dÿw=©•Ì4ırfq\fÜ6•)L[dé7âx7õëükù(ú
+Œ:‰Û ™+1ÏÄİSÖ±ÖˆËú$ï£G¡	Ñ€“´å“VZrÎOÌû÷Gò1FisõÎ“¨uZOî1Ò	¥Ó±?@Â¯	©Of¦#e·3-<8†½<ç¿A1Äx>ùÚp—êåõß‚«ü°œ”•æ½Bg‡‚wCJ&t]õ8Ìë¥‚­«‘œäëf&s®$hÏ‡òğ’c£l–Q‚U"rwa¤=FQ¶Aü*¤ï$Ÿ¾Ü	)>ÚÖÁÕîÇD¤R:{82Å2¦†÷æ“?Xÿšı…„¾ÓZ€¿~³I-c_‹HñvjÚtD¾o'm…Õ€­»ÒI	2KD*:ÕXUªzujBB/ae³˜lø¾‡ÿĞĞwØ>?¥D™	šîqà,”3”ÖóPša¤ˆnƒtZ…Ì’!Åµ9šíØŒ„J¾’šK²éy©¶³^Ú_ä“Z‹Ã_ ëƒeÈËÑIBôG*]&ÛÔ×ùÔácß¦–Êo†”ÇcQòÌoœY¦Ã¶ÍS°šÄ=J¤½óó©Pdµğ<¤23sÔ¦>ÉÁÓ!FœèŞéwÍ¥ËqR²2ËrùbV$ä‚Ù¦aóÂÊï$¢.Ú[Opà<;|Å´—Fc¤5¿§İÔ^bˆVr”~Ñgš¸Ş)}°µcĞç"9’º¿íì¥%HÈÖx?+3f¢¬Èš=é´õ¨‰Å“pşvUÏñdÒÍ¤‹‹ïyòÏ$ËâUA*>â8>à±²Ç®˜÷nÛ3;•ü9ˆ×o/™{0úF¬?8ÌÖNøâ°œøÌ‘B$„véPÅĞƒ%˜¾Ìê—µP™tkÁ¦ØO¸<æE½<W7~ÓÎI>àF°êCAEì³Ş5@Sã™Â¼äó¾“-ÔñRT		•Ü-³š±Š²ÇÕ°á'ïæ;f^‡öX¸·¬ÿ°Ş©¥¶ÌÆ;óK[Ôá^85IN­¾~Æ¿oaçÅ¸F-è‰ó
+ä(óŞ˜âRùd;øg­™oÖ73rºÆŸ¯z|®FV-./´¼ütH¶Ú¹¥6— f\°ZšöË7¦tKÙşöwÌ)p]otKeyõ–¦4Í-tÿÕƒÉÀ×­ùOpwùW‚³ÚŞZù¡?:®²¿çÒI´[|¯yÖ“Îk›-6LÛ)AK¤Àt÷õ†·l£¥»XˆLªşêì¨÷{ÌAóìg!˜,ÿÍ#qº­Ğ{½á-´*|¦'¤?×Òô„tßzBº‘V…<ÿCHC(;‡Lƒ éìÅ½–p¥¾<Òñ÷PèG¯"%g{ú¹ºøÉ¨7ĞoÔ@¬ÚòZ„·]l+¬¨Kxß?ØóŒMñ==¦¯g_GÊnìëÓøa•êiK~Ï¶¼mbjÎÖ@é÷IM§t%Oéò÷Ÿ½dJT/w÷âËäé(Ùª94Y§“çS°ˆ¨ÛbTéÕvÜT@:=‹=,$Ó¦ˆ³E²6.	fÌ©Ì²W@Rw’(Ø¶}³FÌĞ9¯Yñ7”n¸Làzª:‘Å`¤ŠYÄ„fdï×ğzhT¡v‰H!)’z^Š³’÷+ôø×¬XR¤ş¥Ê‘CzÊN¦¥ÈöMö>á§VHq¿)@yAëët§[º­¥úé%«Èó]š¢9$àY…P,"=ŒœsÒio~qiê…"eN~QÃ¶9FòÑCó“cMÑƒaäƒ3E5vÄ× TœkÎÌ¯cƒ¢Ú‚¼é„'ø•dHY´€3!Õ^nò±ã¨ñ-ì:eF9’"¶×†äãÒÛÂ2PIüÉfä£®4UhªÌG¨ ’şRj^VæHÈVôL·-«^k©™§(²â]€”è/1”PI÷ólù†¬*Šá(:=Â‘+Œ)¼z'.Ì~ëãÒ¢ˆdºN‘ÚmÛº†$J™‘ô«	_¤sÿõ£ÎÉ².E:¯á‘ö/"R¥˜–ÕR…†´y	ë]4¤çZÌš€\4,"5=’vĞdD*}ÿir‚éÓÔÁÍ.še¾®O<§‰ñO»"Ò¦‡c»|‡Ôv éóî†ôúgÊ’“dÒjşC!ÕÉÊ»R©l8'Hòq©ç¡Ö$…İÉöQ–F’şphø Hv:M'™R™»#mˆY%ÓI¿†#hü\p ï-¥÷Õ|½;Í³·Œ]5(_àHJÇOã|ĞZrÂ1­~,kŸùC¤Œ~Â;Ä‘ğØàÖ•åœ¾I_Ú–o€”Ğ®°FÂ‘ô’æqIÏ‡O^Rãeµ¤#ñqÉ¢‘«^!Èæ¸Y-)ÔÜákéÌÏòQ²æD¤jÂ\K-È©ËaÓk©ee§k
+Š¤Œöq9¬ŠRßfçAsÑ eÖæ™>Ÿ0$ú/¥‚3<z¸®M[×yŠÙ(C¢ÓÖth~A×âp†´9ËSÀI¶"ô|rÉ`ıùà
+$³’­— Jïrái—Sz?@mE^ùr„×’Yß}¼á™”C¨Vºš´ôxÒñZ”O]1Òx6dæ©zvÕ¢Zä^‘½O¼—¢ºZ‘MºÌLu!eJšbÜ|rÑ)³
+;P.u¾LD’_"\÷à|$÷%Õ-7¿bR§h¹Å¼Ãó!ÙûcßeCí?³âçK.	ú.™iÃ†/æ{NÉò:BÌÙ¿*è'‰pJv¡Oÿ`É©¸3µ÷[ßGÉm¿ì#âup-‰ˆhK§9é
+ë£·[6Â£Ö;vÿb($˜÷Ò»#SÄÖæ PêBÆBò!ÂV;'¤…·æ`]¥¼œR„¿Ña£nuË”"¼ ×Hê–Ã3|Iö/íçP
+endstream
+endobj
+16 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 210
+/Height 73
+/SMask 15 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 210 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 13308>>
+stream
+xœí½ieÇuøÌ¼ËÛëÕ^ÕU]]½oh4ûB€ A\DK¢(Ú¤†VPòDHa)ÆšÿLÄ„13æŒ3!†¶dm”d™6MY²¸0@ĞXšİŞ×ª®}}ë]3Ïü¸UİÕo©~İM@_Tw¼wß½yóŞ<™y–/OÒïÿî7ºŠÙÀİ¿ÓM;™lZÇm ˆªÏQ±7/…`æv'“ ‰Ks©´“Í¦şø+Ó?P\Z,/-–Ã úÅ/~¤PÌ¸®](æÚ]¾V‘W.”J6ÿê¸V±;¿uÛ€“rO¿851—J;Í52ÆäòÙBWÎ²e:ãnRç†ú¯.WªozrşäÛ—ªeOHÑX²¤Üb¸çåÅ´k[L>Ì’‰ÈÜ"G kÂeãï¢”E‚˜‰c¦ºÂ‘ 1rA&G WÙ¯qü´è>Ú)]MÊ×àn²ÆÉØ
+·›Ô)]·‰zÉ*s@.²'@;)ÅÀa‡`•9`^Ö«£ä°-päC?,ó†y™c€vw…£óÆS  ,#ş9Õ?i¼G…ÃLÇLeXØ!Ø"ºşÖ
+P†V8î%«GØ×8(q4{…ãİ"ı¦®Ì#ÜäİªNàİ€1,ZÉJ&“:pïäóáöŠ¹‹ç&mÛºq5A)iŒ±-Õ¡´}€ŸŞóbÇRdr)f&¢¿ÑøÎ-t³ã;¶Èõ1IHEñÌµ%)•åXø@ìŞ3x¯‹3»®µc÷–r¹f´iøUÈ›QJaÛ*™
+•’•r=¢?ÿıof²©Ç>tp}\ü ï:ŞëbÀ&Aá×=ËV×Ç,¢Æñ‹†™˜-[MO.––+½ıÅtÆuÓ¶T’×fìğî£QG~ÏBÇÚ÷#cn=Q:5{méì;WHĞ‚öŞÄûFìˆÈEñæ§¹®55¹xşÜ¤¢Aü ï¼&Ùë`æl&M‚|?h)RRÊ«—g'.Ï	Â&Ä{ï›Ñ 3”%e“óì:lG•Ëuß1q¤µi4A>À{ï§Ñ 	±¼¸
+ÀM9hÍlÛzâ©ÃQƒ †”âÒù©w£šàX»d!!ˆ D[•H	)@R"!h3_˜ )¥”Ä€1kf$¯CRlr¯ AB’”’ˆ´f€›e.›²İ”}ıëÎ=£?óÙ-Ì­„~(… Á·¨óMw%!„”‚Ãwi´­ñû›5@gPZë¾â‘‡öf²©N.¸Ò‡†z\>?•JÙqA¶c‘RòĞ‘İBÜÆ?8Ô»k©Õ¼ùÙåËfvîM¥í[^å¦ìí»¶¼uôìávoß½å–ç7Ö¸@6›:ùÖ¥(Òªin0 cÌæ¶‹À† ÚĞ`ÍÍÆëçßn=, À€[ŠfÃgˆ|ÇUU==…ÇŸ9,~’†m;·|âçÿş‹Ç†Gzû‡zÆÆ|ìÀmÉ\!E.Ÿ)öä®\$Ô!mFÅA~ş—?ê¦İ;ª; ì9°íÙO>ô_¿şÃL¶±¶eZF/µ¼¶!¶;(œúœ©¯ ¾İV 	ÊB&_×åà¦¦MŞA{p6¸éÎŒßÈAY.¨¡|r!Ö{ö‰œ,sT6:¾#ÉS=qà'*s ˆ0¾s8Š¢¥…Ò…³×öÜ–J;w\ÚÎ=[/ŸŸ1ÚÜÒ‡ÑÂìòÅsSıä#Z·å7t‚=ûÇ\×RÖÍÃ´YüÏï\3ç2M—$•ÛJîA‘µHTg Šd­B[  Y’ÌL bprDd
+B=Äù+ğ«ĞĞ`ëf³/„é#;KªÊ›j7Ã€sıdÛ :n¼Š¤éë0ø0OËbY‘Õ¦ªÁ	eAYÈrÌúsØÈzXÎšª¾}ÉS…®[p@~,ˆc½¼T’RôÚuëÚCJ±¼TÊw¥eÓx†Q­êesiËR æg—Ïºê{Á_şñ·wì}à‘}w~W5L¦ÂVÑ|uòË/©-ùæ+bğ¸Û¤ŒbóúD6JÎ4 ’f{@æ» <˜©rQ ,‰Ö¼•1ó °w‰LbDÒcİrè À"Š!Ì=2{Ddç9šd‘‚ ˆ ,#¶A5è)VD÷ÉÜ5V8ŠÁIÁKÕÙÀ #Ò5à ÆØ'²‹0·%|ª¡ºF›¹Ùe¿Ü<…1.sÅ›Şo½æÏÏ.74†1FJ1¸¥w#„™ãH;t§azeæzÍ¢¸…†D`mÒ™´íÜ4ÌÌN-mÙÚ×lx5ÿÊ¥™í»F
+ÅÌR
+Û±çW=xaOoŞqíæ‰²”Í¦7¾	!oª9½há?P½4Åİ"˜­”N´>{ºM}Î„ <Ö]di0´1*Ü¤#@1L	Q&†É‘Ú)²çud€Æ&uˆ²0@–<èIãR57DK;$|p†¤ÈJ	)™.€§Hº&®@GdJm#—aB`˜IÔG*€ÉA…Ì—´'ˆ0$œmä†àlC’ã±™„ßù„«âš«Ë•“o_ŒÂHm`
+1s†ã;GÄîü™‰É«s¶e]?“ˆÂ0²”Èç³vÏ H 0F7Lq¬g¦¥lT IõŠ'„Ø³ÛÆã–kµV‰²Y×º™™GDéL*ŠõÉãsùÌÈXŸcÛho¢Õ•êÖm¹ü™“×F©5'Al‰™?zÃêËšëÄàf‡H“(İ6HLı„©TKĞ¸L‰ÚG™-”Èœv ø˜©Ì#ŒÁ}dõÂŠÀ!8Cb„œ.²b0ÌÚü‹ëS¦¶Uº18QiÁ iğ!s ={‡L° ÚGYŠÀ $Ğ#TÅè*ëïÆË®;D:„‰ÁÂy‚Š§¹Vc=LÎA•}SWRSÆñáØ  ,½"]`yÕøzJm3?s…täG±6×]Rˆ¾Á®tÆ1Ællo¯äßP0Œ6½}]vÊâcL¹T“B4K|?l&,m¢ŠÚ]©Ô×’R "ËRD  XÌõv÷öv¿ıÚéJ¥œĞ âHŒõİ²ÛšÈLüï/ZİéÕ#ŸÍ¨pÉ-
+` ¸e§Ø¯²˜%µE¸S:0À.Jï©ìÃd 8œçà
+û8,úÈ"»Æ¦‡¬½2“…Š`lÈ
+GWØw!j0?4«6‰*âGDA€\¢,À@ê
+{X|Öè7Ly€œı"p³S¤W9>mj!85&(2<†6´S¸1ÁäHíGv
+~ºŸlz	Ñ.¸ÓìÆŒRÊ!ŠÀ>¸‡ìœT¯Ä«˜;bGD¶c¹)»´RÕÚ‘TèÎ	ERŠ	PJ2³&b"cR'[H³1)B%EyµfY•a	lÛ9ÜpÜ«‡¦M‚€ÀæçV»‰Hksòø¥z-¨{¡c[™Œ›J9s3Ës«Í·K…1³ÙµgëæÕ–®Z}åŠ°oÈn 3*Ü]"-A‰ÌY e&ÙØØäÈÊAj°ïéD Ø˜5Áü,&48gIm#×…ˆ`\È‹¦nJ*r.±—!ù0åï¹^²"°À@Š°“Òs0
+tÉø³TY¿®KûD&C2H”™XóvlŒ­rø¶‰vR:CÊ‡I‘ØIé‹\`$Èƒ~ÃTïÙY'Mğ„,X$Ù…xPêßr¶mñêÙ¡¬B1[Z©Ã]=9)EkÃ-¨CÌRØ
+¼0•vó] ºÈuXJí;¸]kİrâ#PƒbàŞûwº)'nE¾g@
+Š£x~v9Š¢ï½ğv½æÇÚc³ÑÆ÷ƒGŸ:¤cİÚÙF‰¬S:³™­MJœÿ§%¬21‹Ô(¹HÔp	š7á›º<,]	2à,)J|`ÊBRÃXÎèêÂ.R
+Â7†×%°@#dk@tÁÔf9ØJ)	2€'5Jî.‘öqSG4@âQ8jJÈÄıaV¿lVùD¹ÌB=*§Lí˜©HĞ€pl`,stÔ”‰l¯°ì t:‚À2¢7Le¿ÈTÏp »EÆƒÀY’9‘}I¯lò[öxJ¨¼…b6‰©ß’.å
+™tÖağm[ÓËVVÇaºzİRHÙ’å¾^$Që?ù·ßªV|!`­uÿ`÷èø˜…ìİºŒˆÂ©21']Å€ûÈÚN©cM¿8eªçG±îkU D(·ÂI“HšPçMí¤©[€b°µo¥ú…%(‚¹b¼Ç‘8u%p2\$Ë º…#’}d+Ğ#²àáÃ(ÇæM]Ù+Ó#äh° İ'ruè¦š†<aj»(%Au˜
+bOó€´Ğà"Ô§dß_ëÅt°ŞµtŞÔ6»dZ‚wã>‘©#¸­¦·Yc¯ñ8:lµ±â'ŒW¿wban¹»·…Ï¢‚É¬Ù­ÛÆ‡×ğ?6ƒÇUš)‰;¬-´I¼¸èµ¸ä
+Jì	 ê%»Ÿœd¨³I$#b>©«KJ‚Zäh–C"Ø *•8Ï|˜£q)€$g†ƒiã÷
++•˜h`¢]óĞEJ‚ˆTòäÉ]‡y]—…ÄĞŞt”PEƒbğq]Û-Ò‰wˆtÁd?)Éøç1 Äö"Í{eF€Xƒ·Rê<×Ú¹„ßT F„q»Y  ””Jú~xêøÅ©É…\>E¸uhõó_ú{ÉcL¾ı1V™€2bƒ8bbpRâµnÇƒÂÖ„4"¢›¬ğ¦Ø?D¹ Æ€›À ØD1¨j	±Ï&„Èùà¤†±˜Šd-!ÊµdÂ*³fN¢Üëa†¶ï"d#A!Ì~‘1à*Ç9È­Â-qœ%+¯=2@–¬ŒM4cÂ^aé51¨½bâ`Í™Ç}¤ÒBæ!™¹ $am²  &`óŞ»0ŒŞ>z¦RòÜ”İr6×Úöôôvıà¥ãD ¢¡Ë–æV‡­cCíFkf®U½(jÒ}	ÌD¹Bf†ÎTËÚÄ	}9×H÷Ë%5°C¤§9È“ª°ÆZ3pqÖàÇER‰¶U¦\#™rb„U¡ø´©y›“¹_æ§9HJHª|ÉÔŒ’;DĞø6Ğl®²gCÄà^²ó‰oEƒ{ÉŞN© F€˜æà´©ºe2S>‹"T¤ƒ%`˜ç8H
+·i­if	ÚGÙ­äø0œH'ëéÊ&ÃÂ»/v†™{sh£êØ¸®ãºëZµª×İ³mÅ†ïf¶‚ğùRÿ`7ß¬ ¿æ+ÛzüÃ÷åév—³á¡§wÏ~çLòU‚f8|Ó”ï—dãÃ“İ#ÕtuM´%Ä	âû%–ÛEŠ fPØG(¿j¢Q '`/3ø¼©gº¬d‰âb®2/!*CàİœN“LZ@¢u)ĞYö®r˜Ä,ˆ"©ÜGV‘¬Ar}hb•£iuh	’$,0 €3ª\ 1Ø…(#á@õ	+Or‰MâùÛMé<©$¬bƒêlN›ÚY®oÒ>ï¾ØI)F¶–VªÇ^;Û2nf˜W—+¶£ªUx¤¯ZötÓ²Û…ÑüÎñ+µªŸÍİÄ»‰c½c÷p.ŸA{u k³ï·Ÿ¾öŸ«ŒuR†~U—ÆEj\¤#¬ î“¹%C€—8òÙìitÉø1x˜œ)¦‡ì¢´Bƒe¢u›Ô†ğaŞ0å‡E¾ ‹	)ˆ#"ç°˜bO°¢*Ç¹¾›²ˆ@ˆÀ ]eï{(±?’ãE²¶‹´„ĞÄ<‡'MÕ9ØG0x˜ì²À˜3Áeøı°¯°w”ËŸ£Ä9×»‹¬ÄşP ÄYSÀ
+°6µÚŞ}±D³«¯½rbvjIµZú€5WkŞŞƒc;Ÿ9üW_ûŞ61”Í¥âèÎ£û‚†/ŸŸÎİ<¤éX3›‡wÜ’ŞWÂ¿úè•?=JR `À…¸/qln¢ê)P?Ycp§Ö‹ˆÀŞ~J[ ó¦Â°@–T£@ûEÆaº¨ë0À‡ã”Š9<ijCäl' 8(³y#ß2» €/˜z¤Ã"€I‘\æpÃÄÚHæ\ ÕK€À„ñ—ÍsX$«˜Ì6J’ÛCVC€ ]3ş;¦j“¸ˆúKz5±£°“Ò£Â5 &²	öŞÖ•=2sË¥Sï¾ØicÎºrüÍƒİQØz…ÌìûQàG®ëL][èîÍ·“ÑN@’r…´çam<.óÂÊReç®Ñ[–0ú÷û^rúr‰º•8Æ\Èi*&Ş'²‰äI`¥F…û=³Æ
+GgP/Âr  L¿_:}°ê0ØIé‚TÓñBf‚ıœŒa8L± [A„0c"µŒ8işbf®!®#vX¬"${Ãõp;€©ar#Ô SÌs˜!åB–8®B°•ÜEŞ%™¸Z0ÏÑB¦›ìWôj‰µM¤Á»('¥Á1ŒÀ÷õê*bˆurÃ&ø)‹]Bâ¸©+(%ŸúÈ‘Ù'¥Ü¤¶Æp:ã¸®å{A¥R7ÌRİùBÛ¶~ù×>øQS	‘¸aòm&A÷ü/?ı/^©›t´ÄÑâÕGeÁ!À08Eâ!‘¯=ÏÑ"GL¬ÄÛrV×¦ î•Ù ÀŒÛKv€“…$a?Ô¥}"3 l İ¤÷^•E±I@,%œ%8Ä <, DÄæ»feˆlD€Çz1€:ô¨,fHÖals\WGÈµ hÉ„#pz„Åë2Á0†(#®r<Ç¡ äZãª²¤’²¹UªbÇÌÚpƒ¹*„îé¼g?ñĞ«¯œĞ±¹!mé½­óI4ŸY<¼Eû±H[Ff8<mj½d	7„	`ºÉ$' [ “p€ÄE|ÆÔlĞ¸HIZ£[^§"o,³}LWö#S$õf\NTÀÜGv°8¼bâdú³€*Ç˜fï¼ñ¦Ø!'±uƒp¾¡´Êñ®¯p´R 4ĞMjH'®ìDæ°@s^eovÂx "æ(²»şŞçO»tâØ%Ûn3µ¹ûôº )6ãƒ‘Râ:õ²Ù	'•X]®\:7uğŞí›Üñ–Û>ôÃ—O()3™ôæŞÕË3É£M¾+ÛÛßuÇ7õ½`nz©Ùâ!IÛ~û©‰/Oæ 0ëıY1|˜
+tŠã<)¡Âñ’	“ølz¹ K„8ajuè{dn‚½yZ#8‰îëK^@L~M—+ë<ó¸•ù“ˆl¼¾4P‚9ZäĞcSÅš;@ë\w! „0'µÊ*©¯ëRf-”ÇÜMª@–5]"	EØ 9æz
+B$ù ™©ß<Ğ·«ÿCİ2ï8ó‹ñE%İF^–òªA.w“ZÍlx@rùâ4GzpKïğèÀFšˆ$$AQ«zW/Ï&b…qW1[èºá¡%!,ÛR¶tÓöôäÂØø`#S÷vĞÕ›Y\Y-§Òv6{£ò:Ö^§–œ:~9aDQ¼uÛàİˆİòbùÚ•ù‹ƒ-ã8‚+-b"Ã"&b,© PÒJÈ)òÏJı˜ìZ0áEãMrŒ@XÒñgU3Äš;e^ˆW’ {¢º5“ÚâÅg“G>ğ:£]l8Î@` !XŒ7Lv´Îî @5˜ûÉWl“‚|GWOšúá$ñ)hf6Ùß|8/ Ëu»Ó~-àØ€¦½º61ÛÛ_€ A¤µ½¶põÒìõQñ§‡P^­.Í¯néÀ†WVÊSa_×Q"£D47½Ü?Ğí¸3âXOO.ÌL-m×¾zivp¸gÛÎa)e‡+Ç6¼%:qìÂÂìr&—’J¾ıÆ¹gŸ{H¬¯«¸rqúä±‹ÎzßºşÁ²Ôù3a=üÄÁÛº)3ëX/.¬^›˜—J6Oë™JZLvLJy Ğ8õ'~öÑƒ[®ıã¯“†¨SKKßµÅ¨C_Ÿ:¹Õ’^_GóSÃu]›6HpÃâõ@EòÓ1]a`Æ2™+	¢òk‡Íö…†yS:ˆRJ\›˜îvûø›çÏŸ™ÈäÒ7Ô/ÆõÏRŠR©f9ª§·«R®}û¿¼*UÛÅÒ$h~v¥»· ,qîôÄ_:ÑÛ_¨×| Ê’—gAÔ7Ø57µ\-×;YÎÇqÿPÑ²­çÿöé‰y!Å¹WqöôÕ\.E:_È,Ì­(Kµ²9uåâ4¼oÇÔÄ¼Wn}SI»ön]š_Y˜]nÉ’B¬¬T&®Î*%±¶ ‘	 b–|èù_»¼´tõëoE¿ó¢Rk®–÷;hÃÿ P kÕı«bOŞÔ[±Ä› ®\š½·»°0·âÕËRéLª^ó®7	kó-!	ƒ ¬½ÿ¦ÊÑšŞ(¥Pê&sFB0ã?ıÙçN_k¦65E+ËåŸûO}âçŸP–JH)“wëÚÕù·^?û+ÿäÓ›<0É¢×l6õµ?}ñâÙkÍ3æMç¶ë_üŞo	Ñ,,RŠ•åòÄÕ¹ö~³(Õ¼<÷h±ÿD˜«ibÍ¬e0“x¸°îò5\kòK{¼ıY:¤ö¨oÿÍÑ‡Æßxóü±7Îî=Ûİ×uìèÇYoB¾M¥msW¯ÚÂM9™¬k5Y: B¦lÛj´•R:nëxn3˜×nê4é¹7f`µïDXZ*_›œo's:ÖZfÄÚW{¬ÓGìÁ«~$6t¢Ñ‚’3epçËèŞeP#å”¾´?<Ô+Wıd˜	Ã8#ë8ÖíâIŠÑá÷Œl(vçç¦–YÃèM¸²X»2›Óÿ®A959 ™äL¯æºsÅîœ¢¯¿+›ÍóÕ+…ÔÅ–[$€	«!¿½ËíïDà@›È Ğè£¹~?Da¹Š|ü8Ì¬—½H„vWê'¡+À®s\úÂpOAÌ–Ÿ[·líÏå3q]º0]«xÍù0Õ‡9<8Ü›É¦vì°4_*—ª}ĞÚDQ„÷ŒáÛ4Y:‚¢Z«wuçZ¯q¬İ·{÷ş±tÚĞÕ•;üàîr¥ê¶\µ+­İ+úw~ˆ-)4lØ›­t=¸µphÔûÊ›œË#£álX\­7[.İı›®ıùqı­K&ãhÄ†´±ôĞï|DM,ÿ—/Ù=ÊÙw¢TjÆŠg(Œ´'²®LİHÄk´Iäı_?ièãõqNZ˜/>²+½aâÈƒ{+åzó³«ŸùÌÓPöY¶jN‹>?·\+×7©¡‚µ%‹ÿÔÁÌÙ\ª\ª	¢–YŞï Ff^­T5›l¾5?Å÷Ã‡Ÿ8Ş„ o ë©Ü×:È+IÜ§ÏÏEÁÿı2eiC‘árİîI?şo>çôg3ƒyÿ!«7‡ß}™OÍ! &ÒvŞ=òï¾ òn÷“Û­¡j¯°•vHId?²#¿êuŞ²øıËgïû]Ã=”%.qäÅ2f„$A0“QÇÁ]o;†^ªë±¬üòs…ª¿/oÍüñ[Ëß<kæÈ`˜H“p>woèùè»Ñâ[Æ7®½*>ùÌáf»SenvÚ)Kºi§á<)EŞË”–+í$JJ±²T	£xl|°Võ’æipD3s›8Ö››Ö"bcŒm¨ÌéL*•rFÆúË«õkWgïò¦~4¾k¨o Ûóµ?}¡VõZZñõš_~®¶ñˆaÃ¸­É¯dï—(||Ï©??~íu©8b6ıëÏÚ…TñĞ°	b£Mæ¹İFŠ‘î§çû›f.†‚rÕÿùÙ¡ïöË~0±êl)Ğx‘N²‚¡W<ÔÿÔ®üŞ¿°ü‡o‡q!÷ågwîÌæ¦—SÅ®É«³a÷.­”—k»î«üpÂÿö5Îfdl3úï~Ş¤-}`À‰MÚRö@nä×¹üÏŸ¯šã|ÚJÛÿ‹_a@Ù7d¶sSL!Y¹×Üåš´ff6†o¯Ø˜|!½mûĞÆdšÌ‰h‘T­øgŞ™Û1H™lª°Û²›	7â8.²c®]]h¹ú¦À†C/úôçì(^¾4³şx7|MÌœJ»Ê–ÎdRBˆBqÇüìÊ•‹ÓwvSc8“uïî-H!ˆğ™Ï?õÕ?øNè‡ÍC{ÆªƒMkz 3‡~(miíí;øOÒ
+¤ük&d·	UÖœ´\‰aRâ·¡ÿã–|ù¥{R[»¢’¯ÃXJâHs¤q#¼«’'³NWo&ó?~ÿèÍg™¬ı]¡¨‡Aä8ÒÈbê©ÿécüCKIÜ#Øí"fS
+@ˆ9²ú2Î–ÂÎÿí&ÖÓÿô¿>şµ/eÆ{ Ğ­¨:I6éGˆ:6ßPEÀÒâêÂüŠe«CGv±á?ÿ£ïzÕ É˜.„`dÛ–²¤ï‡Ó× (%Ÿxæ°”k+aÇ¶¡M¼8·,%)K*KimŒÖD$„XË¿¾¡ªD°m«Z­WÊõg»ß|ô>7å Ø¾sXÕë~­êÏ\[’R2s*í(K&.Nc–%‡»ûº„ó³K:-[µ%Y1Q²'Œ¤”œZ\˜_}äÉƒBÖ†ÁÙ|æ¿ûïŸû³û­ ˆµrcà¯4Œb lX×B;ãpÎe “8Ã¦IÄ¡ºú?ÜSš]æ´Å¡¹õ½¬®…2gsÁ11› 4¡F`(2b£ıÈÉ»(¤AÄ`à fÜğÑqltZ½Œı›ŸKoëîä["tGbgŒ‰"MkŸYk£K)™ØhÇ±„TJ"ñ™2Öˆ@|#êŸ´qòuMÍg0ğ±O?fYRJñöÑs/~û­8Š?ı‹:òğ^¿T«h!jU/‰ $EI)¢8Ş:>¸sÏÈ¹3“ÓSqlLÓÆp’İ@µâ}æóO·~Lf%eiµÒÓ[ø_}a~v¥\ªWÊµ©kó–µ®MˆaŒI§İ/üÊÇ¾úßöêÁ&ô÷v "¯îoœ}ØpDº…U³q%§dsÄis°aÖÜVH“'IÓÚš¾¬4(m_:m|ç–ÛJÛ%¥ˆ¢XYò/ÿäÅ[_fGwA¨¼5Â0Ş¹gä“?û¨m«µéèº#¼áë¹kp[fLs±ï¸ö?¹)çw¿üNşèBË…1&uÿá—>šÎ¸#„V@Úòöê¼ünÇ:˜ãX_¾0½É>aPJzõàÒù©µ5ÿ›Ÿm‡m¨—?NŒ1±nLò.ƒÙ²”¢]´6ù|æüò³ù|ÊóZèy-±–õ}"Š¢èò¥™fŸ\Ø¶­0ŒÿÛ£K¥dÎi¿8Š`Œ¹í~üwQwuç>ûÅg‹İ¹zÍ¿¥äQ½}‹ ï‰8Š'®ÌÖª^»s˜aÛ–Wó_üö[‹ó%Û¶xeØºDÒš?¹Nà{Aoá~ééŞü-%Ï²d©T½cCş½¥äÊrùÊ¥¶.)EiµöÒóoÍÏ,¹)û:‰«…Ø‘Ö:;¢| "ª×ü¾âg~ééîŞüâÜj»yG±¸XŠ¢¸ó\ï}X–ªV¼ve«™É…s§®ÃÕJ=ğÖòw5*Ë†9ŠbÜÕ"Ô¿s ¢ZÕëëïúäg¿ÿá=¹B‹ı ™Ùq­J¥Şìsy_CHQZ­¬,—Û¥\¿çş][z¤†M6—R–ôëa£ØåréÒrµ^óE{¾¸ÖÆh£MÓN› £µ!m:y·l uBİjd6Æhm¸½½¿ñdFkÓP ÇF­;MîŸøYâX7[“uk±Ö2I˜Ì­Ë+—ë}ı]CÃ==½…æ{c½süòÊJ¥¯¿‹YÀNê•<æZ56œlù¢uŞ»ë…tlfy­MDZk0‰³'%•×‘¶muùü´mYıC-œyİ=ùîÙ8ãX?ıÜ‘F±³lkt|PÇ›	ƒ	f¸2»‘Ù†ÑÈÖş­Û†R§MÓ4)©´R»zi†ˆŒæ8Š»ºòÅîBÇîTG¤¤X]®L\™½ŞŒ1÷?r •v:Şõç""£‡J+å8ŠÍZq¬]¹‡vÍ·.a9©yÁPJVJ5¯czú‹ÙLº¯¿x[[ñY¶uúä¥Äg¡µ±mußÃ{lÇæÛxÀ5¿êÀ–ù™e¬ıÂ{GyîÁÑ±ÛV:‰¤ ™©Å×¾ÿÎÈX'W(%÷ØÖÂ#¥”ìp	êøáŸùÌÿşW€aî*ævï»ÁÕë=}!èâÙÉûÛ÷¡Q– åí•sø=şèÍó`Ä±~àÑıI²½;€“êıìŸ}í{'™MèGcÛ‡{ê^)[æÿì¶c:yåü¹k[Fûî9¼«PÈê¶_Ôş{¶/Í—V<´Ïqíl®mºŒÍ18ÔCÀÙSWm[Ş1¶}€}G‘±©‰ùÎS5xÍ“ìmA*yßƒ{N¼u!WHôßÌ%ÈäÒ}ƒÅŞBáNeÀîıÛ
+Åì÷_<>5¹ğ¡§ßq9ìØµåØëg™¹w ĞÛ_Ìî¼V	Œa›ƒ‡wt’"mŒt÷åÓ÷nV§èî)»sDpl;îh'œMàQ­ê·ü‰y}]­ı»61{·”jË¶şŞÏ>xáÕSfÓ¼!› õÑ¼S¯ù=~ğn*“Ï§+%·§¯EñÕK3…®ìÛŒD”É¥ÀœË¦S›ò;AD{öm=ph{îîò~tâ­‹«ã;†\×é¿ƒ¸\ÔÛ_Ã¨RÚŒÏÖ	|/ğ½ =Òbİ13–ËÉŞ$(“NM\™¢¨)]°afn^Š¼¡ ›,	¤Æ˜ååÊ°ÜA¥Ã0:sòê¯~üÃ‡X™‰jß®&I˜ÿ¦°&Csğ¾^ÍÿÆ×^î,öôw5PVÛ™i½;&H¥mfX¶%oŞô©ÙJm€Ö¦AŒ6é¬ÛÕİ4Î1›N"›†¹Z©;yµZ©Û¶úË?~Ñ²ÕğÖ¾Ş®wíjn¸d5‰iZ0ß|ò&eFaüú÷ß9ùö…=ûÇšOƒ°V­[J^ÛØ#)¶ñ+•Úêjµİmf§—f§oÚèˆ“6C)y[áÆ˜É«s—§†ºGÆü ÜøkÆÎL¶»6âÅ…Õ›Œæ„SÉ¸3Ó‹+KåNªá{a¹Tk°ÁšİÚ°£6ËKåv{ ½ñêé‰Ë3.ì‚pjb®£3½àÄ›VV*ÊRÌ°Ëqí(ŒO¿ØÉå¾TÊµ
+>sãÎR×wøŞ¢(¾|qzy±4²m ßÕz —J*Çº‘@³ß.¢z-È2Íªƒï‡?zóÜ–ÑşÛJãpK¢|!“ÍgüZàŞÌ4†O¾}!WH·¸£W÷[êqlvî=ñöEªU¯à…³S‹—/Î8©ÖËŒ1JÉ{o‘kg#f§—âH÷_»:÷‡ÿï_ÿÒ¯~|-aí­ÇzòêB±§pkã€HÙRø€~h´Y^,ƒ¹^ó/ŸZZ(µ[	e´±l5¶chãN›ŞŠVV*§N\´™©Í†³¹t±7·ºRÛ>ÔİÓZg5†•’¶­ô†Lêµ-U
+ÊË«½ıÅó—ï¯½rrfra×Ûh@Ú˜\!30ÜÓìé’xõ¥ã?y¨AÖ+¥Zi¹bY­ÔjfËVµŠEzy±œÍ¤^~şØŸ|åo{û»ZBõº·cÏÈ?û/vZc‚tmrÄı7<U“WæşõÿùµåÅr¶³Y€”Òhsæ«{öåÚ°än®cÉ¥?¸Ì×®Îõô¦'çşãW_xõåwZ/ï Ô«şöİCÿä·?78Ô©¦;?½ôıó?³Ú,:F’N ï½×¯ÿÖ/xõğ;stÿ¡í­üv ˜9Ù”õzYÍ[A°”²ZõèèN”­À_ûŞÉ¹™¥L6õã¦ˆ°”2vÃ jù€JIë×_9ùàc†Gû’ƒåRmiaµîa9Ö^<îÕCŒÖBˆÇ?|oÿ`±İh§±mK5ïÚÙ¶Ê Ë’3S‹`ôv¸zyö+ÿêë+Kå®âm,¥ƒèì©$Éwe×êfÃ+¾¦3éOÿâ“<yOs†›‰œÍÜÆ“C=¿ş[ŸÙÜ^aÃİ½y)¥ zé;o?óÜíÄëÊ"3k­µ6­ö¥ ¤õª·ÀËÃ=Qÿğ¥sË©´ëİ‘Ñ°YÕ ;i{“µRÉ8ÖGpêÁÇöö•KµåùÕ$‰qóÉDd;ê]*­Vì;8N»}ƒÅ{n{3Ù[Bš^´«^óÿ¿ùõ¥…R6—®U½Ûê™(%Ã :ûÎÕ=n!yÆp:íc|?ÔÚXJİÿğşB!{½Cş¸°}÷Èöİ#üğ“„%vu ¥h£{Šl¸mRÔëşÔäÜ¹w&W–Ê¯îÌ˜›YDb”lŠdÌ{óÕÓÕr=“uÑFæÀ qÆÏ|ü8ÒûmÏİ©Cµ‘²åÉc¿ùWW—+Ù\ê_‘R2Šâ3'¯ì?4ŞÎ2$’„2 ˜aYê‘'æîÎ¡H€hïµè‡ØÓUÌİzA€é´ƒÍóÛ	A¾®.—UKê®1}m>:eGJ%?,­T2Y·í%€ª/›MíÚ7ú•¹B¯ÌN-å»²wÙ-¥¾´ËgGº«;—ïÊ\v)åİÊ‘1¦V«ßı"èo_ìé/t’S+ñ ´Ÿ¼$h|çÈG?õ¸…kç.1um¡s™cæ0ŒŞñà”İvc†›²Ï½så¿}ûÍfâ4N2$4ÿİqî Ü»ı7ÿÙçêµz»mĞ:3Gq¼çà¶®îÖÛûJ)VkUoM7o5BcZ>]kİÄo  Bé…¹ÊòR[—Y‡ğ½à¶RI·í˜YH±e´_ÊæÓOü¡¿yTëÛØÀnsÌL-~Ğ¹ÌÅ±ŞhûŞ{Æôö™Q-×›ø0 ¤X˜/_¹4×ÀÅ¯V¼óg&”%ÇÖë›G^/_10ÔS,ŞŞÎl8—Ïôôıêoüìüî_İAÒ>Z_#ºkÏÖşFÌÆóØpÆ:YƒŒé0Ë«Õ™é¥„ĞĞ\Õî†Ñˆ!„p\ke©tõÒt¡˜3šojbä
+é†((µØ–u3´2)ØHimé»úÎåÓzöÈ+Ï¿íÕıŸ2SŒk­÷Ü¶ÿĞ }E€k•Ê;J	Û–oÁ÷üj¹Ö?Ô“J¹zc!‚M­â‡şíM4Z›®®ì¶k–Êî‹#ıÕßÿf­æßÖÌ`ƒx|çp³°RŠùÙ•L6í¸vË‘µ«;ïûQ½îmôÛ';ü–J5ÏÖ9(×omºº³î_˜]‚^yáØßzSk½¹Ñ¾ôÜcOêü›Ñ(vÚ0@ıƒ=·Ø{ô©{_üæÑ0üé%CIÆ¹İÆÜ»£á§¾n/A§•aÀr¬¡î®¦!-ã+§MÇ9­N^>ŸÛ~“uüÈ“}/øoßy³µ7±’ÀÔ¶Cfo–R”W«ÅŞB»Ü.-Ë©VêµJ›5  Â öığÌ©‰(Šxd_Å›$!B½ú~Øaô¬š³ I«V ŞşÂ½îşic™14Ú{Ï};[şšÎe¢¨£NRT.—n™·Ê¶ÕĞ–z½5¢Æ˜\.½e¤¿ùU|øc÷<²=¢æ°l;t÷æ;Šú0¢(’ÎŸ™8òğ¾Í“ó5 ›KmÃÙÜ¤ò2,¥âX_¹4£lyğŞ6L)íEñŞ<×Z„;F£xå»2q·+p|çğ%ƒ	­å\l$'7±-uä¡}í
+qÕ7ĞàŸdÃ:nLÏZ,ælGµ[ ™É¦RMŞÔõü¨Ô«•RŒŒ´[thÛ¶ë:F›•­nÊß1ÜÉÈaÙjdëÀåSRÉ™©…‘±AÛ¾fïêÎm^¯T²´Z=wzRêí/tÈÈÒÚìŞ7v—©´TC°,Õn[éä×†#DH¥ì(ŒnK¡‘J(K6râ­¥¡X‡b“nİÌíKÖ´*K:)«!‰»e«.»­ÅĞbÃxÀhNÒ7ÄË7g<43óˆ lJ2Ü$aBˆfqo	ËRÛv§2îüÜÊù3“£cƒ›4S3hCÒıæV_{åäÓ;òø“‡“ü·„ëÚÍ‰ÃZ›Öí¡VWªÅfBNÇˆcóöÑó ¤j±ëE;L_[ZY*7¼ˆ0Œvïë0\İaÅQ42ÖgÛmƒ‰£´Raf×µİ;å®^‡åªç&ÏŸxâ™ûFÇî¸œÁî‡ÆWW*nÚ½›T÷ óüÜ
+À=uğÃ;;”¹vğëQà·ò8¤ æ¡Q{ıÜÓÏ=pÇ÷›Ÿ]~ş›GûŠ÷?´»¹ÿÍ\[lİ”}âí‹³Ó;Œyõ@)5ºíÎ[eâòì©]„ î¾ÂÑ¼óÑO>|Ç™íê5/µ1fe©dß·|~nåÿşeÛQõšwîÔ•Áî–;úu¥”íØßñ˜²Ôç¾øì÷.ßçV¤’[Çú7ÙK²CìŞ?²´P:öÆÙ­ãCvJ¥Z3›I~êã¿X¯ûÃ#wÔ[˜[ù‹?üöÊJ-ŠôÒB)•vvläM\™õ½°Ùu	àÌÉ««+Uc¸áøå‹3®klíh1H¦&çßzíL½^ÍOgîÂU)ÕşãW_˜Zòı°§/?3½´´PŞ¶cøŠªW½¾|òòùéJ¹¾º\=wz2•v¶n¼3ÚóÒbéO¾òÍWÿ‘T"Âş¡îB1{’øáÄ•¹…ÙRÆ³3Ë$ÅèØÀ³äK«ÕÉ‰9›(Œ/œÜ2Ú½_•Vªo½~¦´Z[^,oüS‚ÄêrejrÎI9¾6û`›aŒQJé8~ãõÓ¥•ª”æ ˆ¦&æÏºšÉ¥,[-Ì­9qY·Êºğ,%^=‘ğ½àÔñKÃİ¹\ÆïÌŸÌë)¤._œÖF+%F¡”¢Võ¾õ_~°ÿíD$¤¼e‚6,¥(•k×&æçVÃ(&AB£yòòì™w.§ocj£(Œêu?B­µe[¾Aø‘ç3×Ü”íùaçÄXl[}÷¯_¿ra*cAPJ./–Î¼¼÷À6Ë±:{WLDõz87µ˜+¤I š…”o¿v¶Vñ{êwº¶s­JB¿æ/Î¯`-ƒ¢ôığãG·$¡Õ•ªÑ&jrºıÿ¾ØG
+endstream
+endobj
+17 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 595.280 841.890]
+/Parent 3 0 R
+/Annots [ 20 0 R 22 0 R 24 0 R 26 0 R ]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5612 >>
+stream
+
+0.200 0.000 0.400 rg
+1.000 1.000 1.000 rg
+34.016 34.016 545.050 773.859 re f
+0.000 0.000 0.000 rg
+BT 48.189 782.305 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(let's mess with the columns a bit more to get some more interesting layouts.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 758.060 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(In the above example I have made it so the first column will always be three times )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 743.815 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(wider than the second and third, and as you can see in the result this flows through )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 729.570 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(all columns in that wrapper. You can really start to see the potential of CSS Grids )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 715.325 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(now. So let's go one further.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 691.080 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(So I have added another three divs to the wrapper and added a new property to the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 676.835 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(CSS - )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+81.439 675.910 90.390 10.175 re f
+0.000 0.000 0.000 rg
+BT 83.439 676.835 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid-template-rows)] TJ 0.000 Tw 0.000 Tc ET
+BT 171.829 676.835 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(. This works in the exact same way as )] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+362.299 675.910 68.480 10.175 re f
+0.000 0.000 0.000 rg
+BT 364.299 676.835 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(grid-template-)] TJ 0.000 Tw 0.000 Tc ET
+0.898 0.898 0.898 rg
+48.189 661.665 40.630 10.175 re f
+0.000 0.000 0.000 rg
+BT 48.189 662.590 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(columns)] TJ 0.000 Tw 0.000 Tc ET
+BT 88.819 662.590 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [( where you set the desired height for each row based on the available )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 648.345 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(space. So, in this case, I have set the second row to be twice the height of the first, )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 634.100 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(and the third row to be three times the height of the first.)] TJ 0.000 Tw 0.000 Tc ET
+0.192 0.000 0.439 rg
+BT 48.189 601.576 Td 1.100 Tw 0.200 Tc /F1 12.0 Tf  [(the support)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 576.761 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(As with all new technologies in CSS the support is usually a bit shaky when it )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 562.516 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(comes to browsers adding it in, and then you will find yourself adding browser )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 548.271 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(prefixes meaning repeated properties. But this time around many browsers have )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 534.026 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(added it straight away with no feature flags. This is great news for all of us front-)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 519.781 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(enders!)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 495.536 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(Of course, IE and edge are letting the side down again with only partial support - )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 481.291 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(but I'm sure it won't be too long before they add full support. You can )] TJ 0.000 Tw 0.000 Tc ET
+0.878 0.090 0.514 rg
+BT 388.859 481.291 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(check the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 467.046 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(current browser support)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 160.979 467.046 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [( to keep up to date.)] TJ 0.000 Tw 0.000 Tc ET
+0.192 0.000 0.439 rg
+BT 48.189 434.522 Td 1.100 Tw 0.200 Tc /F1 12.0 Tf  [(thats all folks)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 48.189 409.707 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(It doesn't take too much imagination to see how massive this will be, and all the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 395.462 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(amazing things you can create with it. And I certainly haven't even scratched the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 381.217 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(surface of layout and positioning options, which I may go into in a future post.)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 356.972 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(But for now it's great to see that CSS is starting to catch up and add more and )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 342.727 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(more useful features that make our code cleaner and more maintainable. If you have )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 328.482 Td 1.100 Tw 0.200 Tc /F2 10.0 Tf  [(anymore basic CSS Grid tips, let me know in the comments!)] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 304.237 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [(If you enjoyed the read, drop us a comment below or share the article, follow us on )] TJ 0.000 Tw 0.000 Tc ET
+0.878 0.090 0.514 rg
+BT 48.189 289.992 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [(Twitter)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 79.589 289.992 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [( or subscribe to our )] TJ 0.000 Tw 0.000 Tc ET
+0.878 0.090 0.514 rg
+BT 178.659 289.992 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [(#MetaBeers newsletter)] TJ 0.000 Tw 0.000 Tc ET
+0.000 0.000 0.000 rg
+BT 286.419 289.992 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [(. Before you go, grab a PDF of the )] TJ 0.000 Tw 0.000 Tc ET
+BT 48.189 275.747 Td 1.100 Tw 0.200 Tc /F3 10.0 Tf  [(article, and let us know if it's time we worked together.)] TJ 0.000 Tw 0.000 Tc ET
+endstream
+endobj
+19 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+20 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 21 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 388.8590 480.3660 439.0390 490.5410 ]
+>>
+endobj
+21 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://caniuse.com/#feat=css-grid)
+>>
+endobj
+22 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 23 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 48.1890 466.1210 160.9790 476.2960 ]
+>>
+endobj
+23 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://caniuse.com/#feat=css-grid)
+>>
+endobj
+24 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 25 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 48.1890 289.0670 79.5890 299.2420 ]
+>>
+endobj
+25 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://twitter.com/metabroadcast)
+>>
+endobj
+26 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 27 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 178.6590 289.0670 286.4190 299.2420 ]
+>>
+endobj
+27 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://bit.ly/metabeers)
+>>
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000351 00000 n 
+0000000388 00000 n 
+0000000510 00000 n 
+0000000639 00000 n 
+0000011442 00000 n 
+0000011554 00000 n 
+0000011661 00000 n 
+0000013355 00000 n 
+0000013483 00000 n 
+0000013591 00000 n 
+0000013719 00000 n 
+0000013818 00000 n 
+0000017104 00000 n 
+0000030671 00000 n 
+0000030816 00000 n 
+0000036481 00000 n 
+0000036597 00000 n 
+0000036725 00000 n 
+0000036811 00000 n 
+0000036938 00000 n 
+0000037024 00000 n 
+0000037150 00000 n 
+0000037235 00000 n 
+0000037363 00000 n 
+trailer
+<<
+/Size 28
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+37438
+%%EOF

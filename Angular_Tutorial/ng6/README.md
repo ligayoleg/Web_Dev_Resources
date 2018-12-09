@@ -41,3 +41,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 #### USAGE
 
 - ng serve -o -> starts a server with a port 4200
+- ng generate component sidebar -> to generate a component
+  - ng g n sidebar -> is a shortcut
