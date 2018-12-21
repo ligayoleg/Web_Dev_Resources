@@ -1,4 +1,4 @@
-var greeting = 'Hello world 5';
+var greeting = 'Greeting 5, Hello world 5';
 
 function greet(){
 	console.log(greeting);

@@ -9,7 +9,7 @@ greet2();
 
 //call a function of an object
 let greet3 = require('./greet3');
-greet3.greet();
+greet3.greet(); //<-- can not create another object because it passes the value by reference of that object
 
 //have the ability to create a new object
 let Greet4 = require('./greet4');
