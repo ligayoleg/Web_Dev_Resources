@@ -147,3 +147,17 @@ o So I?ll say emit a particular type of event, if I have that property
 
 - ASYNCHRONOUS - more than one process running simultaneously. Node does things asynchronously. V8 does not. 
 - SYNCHTONOUS - one process executing at a time. JS is synchronous. Think of it as only one line of code executing at a time.
+
+This is a common misconception when it comes to JS Node. You may hear the term asynchronous JS, but that is a misleading term. JS is designed to be synchronous. 
+
+But Node.js is asynchronous.
+
+/======== CALLBACKS ========/
+
+CALLBACK - a function passed to some other function which we assume will be invoked at some point. the function 'calls back' invoking the function you gicce it when it is done doing its work.
+
+/========= LIBUV, THE EVENT LOOP===========/
+/======== ASYNCHRONOUS CODE =============/
+
+System events, handled inside the C++ side of the core, are actually hadled by a C library called  LIBUV (Unicorn Velociraptor Library), that's also embedded inside node and is used elsewhere. the idea here is managing events coming from the OS closer to the machine. inside Node, we have V8; we've already seen this. And JS is synchronous, so V8 runs one set of code at a time.
+Now also inside Node, is libuv. This one written specifically to deal with  things happening lower level events occuring in the OS. 
