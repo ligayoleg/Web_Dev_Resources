@@ -10,6 +10,8 @@ function Emmiter(){
 	this.events = {};
 }
 
+
+//Upon something happening 
 Emmiter.prototype.on = function(type, listener) {
 	this.events[type] = this.events[type] || [];
 	this.events[type].push(listener);

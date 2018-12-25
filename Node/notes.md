@@ -142,3 +142,8 @@ o So I?ll say emit a particular type of event, if I have that property
 
 - you?ll remember that we talked about prototypal inheritance in JS, that meant that we can have an object, that might have a property that we can call but every obkect can also has a prototype, which is another object that it points to as it?s prototype, which may have different properties. And then, we can still access those properties on that prototype directly.
 - And the prototype has it?s own prototype. And anywhere down that chain, the prototype chain. We can access those properties and methods of any of the objects along the prototype chain. And that is how JS accomplishes the idea of inheritance.
+
+/====== JS IS SYNCHRONOUS ===/
+
+- ASYNCHRONOUS - more than one process running simultaneously. Node does things asynchronously. V8 does not. 
+- SYNCHTONOUS - one process executing at a time. JS is synchronous. Think of it as only one line of code executing at a time.
