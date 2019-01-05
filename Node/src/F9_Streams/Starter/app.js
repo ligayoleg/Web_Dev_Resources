@@ -1,3 +1,7 @@
+/*
+	chunk --> a piece of data being sent through a stream.
+*/
+
 var fs = require('fs');
 
 var readable = fs.createReadStream(__dirname + '/greet.txt', { encoding: 'utf8', highWaterMark: 16 * 1024 });

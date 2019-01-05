@@ -145,10 +145,10 @@ o So I?ll say emit a particular type of event, if I have that property
 
 /====== JS IS SYNCHRONOUS ===/
 
-- ASYNCHRONOUS - more than one process running simultaneously. Node does things asynchronously. V8 does not. 
+- ASYNCHRONOUS - more than one process running simultaneously. Node does things asynchronously. V8 does not.
 - SYNCHTONOUS - one process executing at a time. JS is synchronous. Think of it as only one line of code executing at a time.
 
-This is a common misconception when it comes to JS Node. You may hear the term asynchronous JS, but that is a misleading term. JS is designed to be synchronous. 
+This is a common misconception when it comes to JS Node. You may hear the term asynchronous JS, but that is a misleading term. JS is designed to be synchronous.
 
 But Node.js is asynchronous.
 
@@ -159,5 +159,51 @@ CALLBACK - a function passed to some other function which we assume will be invo
 /========= LIBUV, THE EVENT LOOP===========/
 /======== ASYNCHRONOUS CODE =============/
 
-System events, handled inside the C++ side of the core, are actually hadled by a C library called  LIBUV (Unicorn Velociraptor Library), that's also embedded inside node and is used elsewhere. the idea here is managing events coming from the OS closer to the machine. inside Node, we have V8; we've already seen this. And JS is synchronous, so V8 runs one set of code at a time.
-Now also inside Node, is libuv. This one written specifically to deal with  things happening lower level events occuring in the OS. 
+System events, handled inside the C++ side of the core, are actually hadled by a C library called LIBUV (Unicorn Velociraptor Library), that's also embedded inside node and is used elsewhere. the idea here is managing events coming from the OS closer to the machine. inside Node, we have V8; we've already seen this. And JS is synchronous, so V8 runs one set of code at a time.
+Now also inside Node, is libuv. This one written specifically to deal with things happening lower level events occuring in the OS.
+
+NON-BLOCKING - doing other things without stopping your programming from running. This is made possible by Node's doing things asynchronously.
+
+/======== STREAMS AND BUFFERS =============/
+
+BUFFER - a temporary holding spot for data being moved from one place to another. Intentionally limited in size.
+
+STREAM - a sequnce of data made available over time. Pieces of data that eventually combine into a whole.
+
+/======== BINARY, CHARACTER, ENCODING =============/
+
+CHARACTER SET - a representation of characters as numbers. Each character gets a number. Unicode and ASCII are character sets.
+
+CHARACTER ENCODING - how characters are stored in binary. The numbers are converted and stored in binary. UTF-8.
+
+/======== PIPES =============/
+Pipe - connecting two streams by writting to one stream by writing to one stream what is being read from another. In Node you pipe from a Readable stream to a writable stream.
+
+Method chaining - a method returns an object so we can keep calling more methods. Sometimes it returns the parent object (called 'cascading') and sometimes some other object.
+
+/======== TCP/ IP =============/
+
+PROTOCOL - a set of rules two sided agree on to use when communicating. both the client and server are programed to understand and use that particular set of rules.
+
+TCP - Transmission Control Protocol - info that we are sending is being split and sent one at a time through a socket one packet at a time.
+
+/======== ADRESSES / PORTS =============/
+
+PORT - once a computer receives a packet, how it knows what program to send it to. when a program is setup on the operating system to receive packets from a particular port, it is said that the progra is 'listening' to that port.
+
+/======== HTTP =============/
+HTTP - a set of rules for data being transfered on the web via TCP/IP.
+
+/======== HTML =============/
+TEMPLATE - text designed to be the basis for final text or content after being processed. there's usually some specific template language, so the template system knows how to replace placegolders with real values.
+
+/======== API & ENDPOINTS =============/
+API set of tools for building a software application. on the web the tools are usually made available via a set of URLs which accept and send only data via HTTP and TCP/IP.
+
+ENDPOINT - one URL in a web API. Sometimes that endopoint does multiple things by making choices based on th HTTP request headers.
+
+/======== JSON =============/
+SERIALIZE - translating an object into a format that can be stored or transferred. JSON, CSV, XML, and others are popular. 'Deserialize' is the opposite (converting the format vack into an object).
+
+/======== ROUTING =============/
+ROUTING - mapping HTTP requests to content. Whether actual files that exist on the server, or not.
